@@ -165,3 +165,78 @@ main h2 span {
 .temas .tema input:hover {
   background: #e2a62f;
 }
+
+.introduccion-tema {
+  text-align: center;
+}
+
+.introduccion-tema h1 {
+  font-size: 40px;
+  text-align: center;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  padding: 5px 0;
+  margin-bottom: 40px;
+}
+
+.introduccion-tema h1::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 50%;
+  height: 5px;
+  border-radius: 5px;
+  background: #f7b733;
+  transition: all 0.3s ease;
+}
+
+.introduccion-tema h1::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 5px;
+  border-radius: 5px;
+  background: #f7b733;
+  transition: all 0.3s ease;
+}
+
+.introduccion-tema h1:hover::after {
+  transform: translateX(100%);
+}
+
+.introduccion-tema h1:hover::before {
+  transform: translateX(-100%);
+}
+
+.introduccion-tema .text-services {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 50px;
+  margin-bottom: 30px;
+}
+
+.introduccion-tema .text-services img {
+  width: 100px;
+  height: 100px;
+}
+
+.introduccion-tema .text-services p {
+  font-size: 17px;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #e1e1e1;
+  text-align: left;
+  background: #f7b6333f;
+  transition: all 0.3s ease;
+}
+
+.introduccion-tema .text-services p:hover {
+  background: #f7b63386;
+  transform: translateY(-5px);
+}

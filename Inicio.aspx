@@ -64,7 +64,7 @@
                             redes en la nube, análisis de datos en la nube, desarrollo de aplicaciones en la nube, pruebas de
                             aplicaciones en la nube, seguridad en la nube, administración de dispositivos móviles y mucho más.
                         </p>
-                        <asp:Button ID="btnAwsAmazon" runat="server" Text="Ver más" />
+                        <asp:Button ID="btnAwsAmazon" runat="server" Text="Ver más" OnClick="btnAwsAmazon_Click" />
                     </div>
                 </div>
                 <div class="tema">

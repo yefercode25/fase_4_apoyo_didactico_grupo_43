@@ -37,9 +37,63 @@ Fase_4_Apoyo_Didactico
  Devuelve el objeto de registro Asp.
  </summary>
 </member>
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Fase_4_Apoyo_Didactico.Inicio._btnIniciarSesion">
 <summary>
 Control btnIniciarSesion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Inicio._btnMetadatos">
+<summary>
+Control btnMetadatos.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Inicio._btnTensorFlow">
+<summary>
+Control btnTensorFlow.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Inicio._btnAwsAmazon">
+<summary>
+Control btnAwsAmazon.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Inicio._btn5G">
+<summary>
+Control btn5G.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Inicio._btnDataWarehouse">
+<summary>
+Control btnDataWarehouse.
 </summary>
 <remarks>
 Campo generado automáticamente.

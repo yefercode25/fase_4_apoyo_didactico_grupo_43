@@ -46,6 +46,96 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._LblTitulo">
+<summary>
+Control LblTitulo.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._MvVideos">
+<summary>
+Control MvVideos.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._View1">
+<summary>
+Control View1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._View2">
+<summary>
+Control View2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._View3">
+<summary>
+Control View3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._View4">
+<summary>
+Control View4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._View5">
+<summary>
+Control View5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._BtnAnterior">
+<summary>
+Control BtnAnterior.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._LblPageNum">
+<summary>
+Control LblPageNum.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._BtnSiguiente">
+<summary>
+Control BtnSiguiente.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Fase_4_Apoyo_Didactico.Inicio._btnIniciarSesion">
 <summary>
 Control btnIniciarSesion.

@@ -46,9 +46,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._LblTitulo">
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._BtnRegresar">
 <summary>
-Control LblTitulo.
+Control BtnRegresar.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -130,6 +130,15 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 <member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._BtnSiguiente">
 <summary>
 Control BtnSiguiente.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._BtnExamen">
+<summary>
+Control BtnExamen.
 </summary>
 <remarks>
 Campo generado automáticamente.

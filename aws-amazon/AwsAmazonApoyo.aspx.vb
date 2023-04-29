@@ -21,4 +21,12 @@
         End If
         LblPageNum.Text = MvVideos.ActiveViewIndex + 1 & "/5"
     End Sub
+
+    Protected Sub BtnRegresar_Click(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Protected Sub BtnExamen_Click(sender As Object, e As EventArgs)
+
+    End Sub
 End Class

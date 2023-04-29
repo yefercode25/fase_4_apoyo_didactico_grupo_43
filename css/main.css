@@ -94,7 +94,7 @@ img {
 main {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 40px 20px; 
+  padding: 80px 20px; 
   position: relative;
 }
 
@@ -315,15 +315,74 @@ main h2 span {
 }
 
 .bnt-regresar {
-  position: absolute;
+  position: fixed;
   background-color: crimson;
   color: white;
   padding: 10px 20px;
   border-radius: 5px;
   font-size: 16px;
   font-weight: 600;
-  top: 40px;
-  right: 20px;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 100;
   cursor: pointer;
+  text-decoration: none;
+}
+
+.pdf {
+  display: grid;
+  grid-template-columns: 1fr min-content;
+  column-gap: 50px;
+  margin-top: 90px;
+  align-items: center;
+}
+
+.pdf h2 {
+  font-size: 30px;
+  font-weight: 600;
+  display: inline-block;
+  margin-bottom: 20px;
+  border-bottom: 3px solid #e2a62f;
+}
+
+.pdf iframe {
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px #e1e1e1;
+}
+
+.potcast {
+  margin-top: 60px;
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 50px;
+  align-items: center;
+}
+
+.potcast h2 {
+  font-size: 30px;
+  font-weight: 600;
+  display: inline-block;
+  margin-bottom: 20px;
+  border-bottom: 3px solid #e2a62f;
+}
+
+.examen {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.examen input {
+  display: inline-block;
+  background: #f7b733;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+  transition: all 0.3s ease;
+  margin-right: 10px;
 }

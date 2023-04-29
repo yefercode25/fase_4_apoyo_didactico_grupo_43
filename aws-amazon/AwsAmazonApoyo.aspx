@@ -11,6 +11,7 @@
 <body>
     <form id="form1" runat="server">
         <main>
+            <asp:LinkButton ID="BtnRegresar" runat="server" OnClick="BtnRegresar_Click" CssClass="bnt-regresar">Regresar al menú de cursos</asp:LinkButton>
             <div class="introduccion-tema">
                 <h1>AWS Amazon</h1>
                 <div class="text-services">
@@ -134,7 +135,53 @@
                     <asp:Button ID="BtnSiguiente" runat="server" Text="Siguiente" OnClick="BtnSiguiente_Click" />
                 </div>
             </div>
-            <asp:Label ID="LblTitulo" runat="server" CssClass="bnt-regresar">Regresar al menú de cursos</asp:Label>
+            <div class="pdf">
+                <div>
+                    <h2>Guía rápida para iniciar con AWS</h2>
+                    <p>
+                        AWS Service Catalog es un servicio que permite a las organizaciones 
+                        crear y gestionar catálogos de servicios aprobados para su uso en AWS. 
+                        Si estás buscando comenzar con AWS Service Catalog, la Guía del Usuario 
+                        de AWS Service Catalog es una excelente manera de comenzar. 
+                        La guía proporciona una descripción general del servicio y sus 
+                        conceptos clave, como productos, plantillas y pilas. Además, 
+                        la guía proporciona información detallada sobre cómo utilizar 
+                        la vista de consola del usuario final para aprovisionar servicios 
+                        y administrar los recursos informáticos asociados. También cubre 
+                        temas como etiquetas, detalles de soporte y cómo personalizar los 
+                        permisos de acceso a los servicios de AWS en Service Catalog. 
+                        En general, la Guía del Usuario de AWS Service Catalog es una 
+                        herramienta esencial para cualquiera que quiera aprender a gestionar 
+                        y aprovisionar servicios en AWS.
+                    </p>
+                </div>
+                <iframe src="~/../../pdf/service-catalog-ug.pdf" width="400" height="500" frameborder="0"></iframe>
+            </div>
+            <div class="potcast">
+                <audio controls>
+                    <source src="~/../../mp3/aws.mp3" type="audio/mpeg">
+                </audio>
+                <div>
+                    <h2>Escucha a los expertos</h2>
+                    <p>
+                        En la serie de podcasts "Well-Architected Framework: la propuesta de AWS. 
+                        Podcast Apasionados por la tecnología", el experto en AWS, Rubén Villar, 
+                        profundiza en la importancia del marco de trabajo bien estructurado de 
+                        AWS, el Well-Architected Framework (WAF), para ayudar a las empresas 
+                        a diseñar e implementar soluciones en la nube de manera efectiva y 
+                        segura. A través de esta serie de podcasts, Villar comparte sus 
+                        conocimientos y experiencia en cómo el WAF puede ayudar a las 
+                        organizaciones a mejorar la fiabilidad, la eficiencia y la seguridad 
+                        de sus arquitecturas de nube. Desde la planificación y el diseño 
+                        hasta la implementación y la optimización, Villar proporciona información 
+                        valiosa para cualquier persona interesada en utilizar AWS de manera 
+                        efectiva y eficiente.
+                    </p>
+                </div>
+            </div>
+            <div class="examen">
+                <asp:Button ID="BtnExamen" runat="server" Text="Presentar examen" OnClick="BtnExamen_Click" />
+            </div>
         </main>
     </form>
 </body>

@@ -23,6 +23,15 @@ Partial Public Class AwsAmazonApoyo
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
 
     '''<summary>
+    '''Control BtnRegresar.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents BtnRegresar As Global.System.Web.UI.WebControls.LinkButton
+
+    '''<summary>
     '''Control MvVideos.
     '''</summary>
     '''<remarks>
@@ -104,11 +113,11 @@ Partial Public Class AwsAmazonApoyo
     Protected WithEvents BtnSiguiente As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-    '''Control LblTitulo.
+    '''Control BtnExamen.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents LblTitulo As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents BtnExamen As Global.System.Web.UI.WebControls.Button
 End Class

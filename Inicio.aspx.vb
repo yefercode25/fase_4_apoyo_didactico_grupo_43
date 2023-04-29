@@ -6,6 +6,6 @@
     End Sub
 
     Protected Sub btnAwsAmazon_Click(sender As Object, e As EventArgs)
-
+        Response.Redirect("~/aws-amazon/AwsAmazonApoyo.aspx")
     End Sub
 End Class

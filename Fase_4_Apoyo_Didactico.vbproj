@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="aws-amazon\AwsAmazonApoyo.aspx" />
+    <Content Include="cuestionarios\FormularioAmazonWebServices.aspx" />
     <Content Include="Inicio.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -102,6 +103,13 @@
     </Compile>
     <Compile Include="aws-amazon\AwsAmazonApoyo.aspx.vb">
       <DependentUpon>AwsAmazonApoyo.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="cuestionarios\FormularioAmazonWebServices.aspx.designer.vb">
+      <DependentUpon>FormularioAmazonWebServices.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cuestionarios\FormularioAmazonWebServices.aspx.vb">
+      <DependentUpon>FormularioAmazonWebServices.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Inicio.aspx.designer.vb">

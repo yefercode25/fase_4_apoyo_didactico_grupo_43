@@ -67,7 +67,7 @@
                             </div>
                             <iframe width="400" height="280" src="https://www.youtube.com/embed/qXLPhC-8AyI" title="Video educativo de introducción al servicio AWS S3 (Simple Storage Service)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
-                    </asp:View>
+                    </asp:View> 
                     <asp:View ID="View2" runat="server">
                         <div class="servicio">
                             <div>

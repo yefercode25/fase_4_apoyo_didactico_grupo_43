@@ -145,6 +145,267 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblMensaje">
+<summary>
+Control LblMensaje.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._MvAWSCuestionario">
+<summary>
+Control MvAWSCuestionario.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._VPregunta1">
+<summary>
+Control VPregunta1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._RBLPregunta1">
+<summary>
+Control RBLPregunta1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._VPregunta2">
+<summary>
+Control VPregunta2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._RBLPregunta2">
+<summary>
+Control RBLPregunta2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._VPregunta3">
+<summary>
+Control VPregunta3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._RBLPregunta3">
+<summary>
+Control RBLPregunta3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._VPregunta4">
+<summary>
+Control VPregunta4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._RBLPregunta4">
+<summary>
+Control RBLPregunta4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._VPregunta5">
+<summary>
+Control VPregunta5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._RBLPregunta5">
+<summary>
+Control RBLPregunta5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._VResumen">
+<summary>
+Control VResumen.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblPuntuacion">
+<summary>
+Control LblPuntuacion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblMensajeFInal">
+<summary>
+Control LblMensajeFInal.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblRespuesta1">
+<summary>
+Control LblRespuesta1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblRespuesta1Etiqueta">
+<summary>
+Control LblRespuesta1Etiqueta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblRespuesta2">
+<summary>
+Control LblRespuesta2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblRespuesta2Etiqueta">
+<summary>
+Control LblRespuesta2Etiqueta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblRespuesta3">
+<summary>
+Control LblRespuesta3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblRespuesta3Etiqueta">
+<summary>
+Control LblRespuesta3Etiqueta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblRespuesta4">
+<summary>
+Control LblRespuesta4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblRespuesta4Etiqueta">
+<summary>
+Control LblRespuesta4Etiqueta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblRespuesta5">
+<summary>
+Control LblRespuesta5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._LblRespuesta5Etiqueta">
+<summary>
+Control LblRespuesta5Etiqueta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._BtnAnteriorPregunta">
+<summary>
+Control BtnAnteriorPregunta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._BtnSiguientePregunta">
+<summary>
+Control BtnSiguientePregunta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._BtnFinalizar">
+<summary>
+Control BtnFinalizar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.FormularioAmazonWebServices._BntRepetir">
+<summary>
+Control BntRepetir.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Fase_4_Apoyo_Didactico.Inicio._btnIniciarSesion">
 <summary>
 Control btnIniciarSesion.

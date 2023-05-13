@@ -23,10 +23,10 @@
     End Sub
 
     Protected Sub BtnRegresar_Click(sender As Object, e As EventArgs)
-
+        Response.Redirect("/Inicio.aspx")
     End Sub
 
     Protected Sub BtnExamen_Click(sender As Object, e As EventArgs)
-
+        Response.Redirect("/cuestionarios/FormularioAmazonWebServices.aspx")
     End Sub
 End Class

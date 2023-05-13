@@ -8,7 +8,7 @@
     <title>Inicio - Apoyo Didáctico</title>
     <link rel="stylesheet" href="/css/main.css" />
 </head>
-<body>
+<body> 
     <form runat="server">
         <header class="hero">
             <div>

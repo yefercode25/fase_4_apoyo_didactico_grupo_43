@@ -92,6 +92,10 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\app_db.mdf" />
+    <Content Include="App_Data\app_db_log.ldf">
+      <DependentUpon>app_db.mdf</DependentUpon>
+    </Content>
     <Content Include="aws-amazon\AwsAmazonApoyo.aspx" />
     <Content Include="cuestionarios\FormularioAmazonWebServices.aspx" />
     <Content Include="Inicio.aspx" />

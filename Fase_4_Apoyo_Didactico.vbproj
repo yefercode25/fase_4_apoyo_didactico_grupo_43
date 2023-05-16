@@ -96,12 +96,28 @@
     <Content Include="App_Data\app_db_log.ldf">
       <DependentUpon>app_db.mdf</DependentUpon>
     </Content>
+    <Content Include="Auth\IniciarSesion.aspx" />
+    <Content Include="Auth\Registrar.aspx" />
     <Content Include="aws-amazon\AwsAmazonApoyo.aspx" />
     <Content Include="cuestionarios\FormularioAmazonWebServices.aspx" />
     <Content Include="Inicio.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Auth\IniciarSesion.aspx.designer.vb">
+      <DependentUpon>IniciarSesion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Auth\IniciarSesion.aspx.vb">
+      <DependentUpon>IniciarSesion.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Auth\Registrar.aspx.designer.vb">
+      <DependentUpon>Registrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Auth\Registrar.aspx.vb">
+      <DependentUpon>Registrar.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="aws-amazon\AwsAmazonApoyo.aspx.designer.vb">
       <DependentUpon>AwsAmazonApoyo.aspx</DependentUpon>
     </Compile>
@@ -123,6 +139,8 @@
       <DependentUpon>Inicio.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="Manage_Data\Estudiantes.vb" />
+    <Compile Include="Manage_Data\Sesion.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

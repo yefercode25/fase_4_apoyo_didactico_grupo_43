@@ -14,7 +14,7 @@
             <div>
                 <div class="navbar">
                     <h1>APOYO<span>UNAD</span></h1>
-                    <asp:Button ID="btnIniciarSesion" runat="server" Text="Iniciar Sesión" />
+                    <asp:Button ID="btnCerrarSesion" runat="server" Text="Cerrar sesión" OnClick="btnCerrarSesion_Click" />
                 </div>
                 <div class="content">
                     <img src="/img/undraw_studying_re_deca.svg" alt="Ilustración de l página principal" />

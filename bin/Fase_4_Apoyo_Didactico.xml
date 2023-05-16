@@ -37,6 +37,186 @@ Fase_4_Apoyo_Didactico
  Devuelve el objeto de registro Asp.
  </summary>
 </member>
+<member name="F:Fase_4_Apoyo_Didactico.IniciarSesion._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.IniciarSesion._LblMensaje">
+<summary>
+Control LblMensaje.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.IniciarSesion._txtUsuario">
+<summary>
+Control txtUsuario.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.IniciarSesion._txtPassword">
+<summary>
+Control txtPassword.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.IniciarSesion._lnkRecuperar">
+<summary>
+Control lnkRecuperar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.IniciarSesion._lnkRegistrar">
+<summary>
+Control lnkRegistrar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.IniciarSesion._btnIniciarSesion">
+<summary>
+Control btnIniciarSesion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._LblMensaje">
+<summary>
+Control LblMensaje.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._txtCodigo">
+<summary>
+Control txtCodigo.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._txtNombre">
+<summary>
+Control txtNombre.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._txtApellido">
+<summary>
+Control txtApellido.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._txtCiudad">
+<summary>
+Control txtCiudad.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._txtPrograma">
+<summary>
+Control txtPrograma.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._txtCorreo">
+<summary>
+Control txtCorreo.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._txtPassword">
+<summary>
+Control txtPassword.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._txtConfirmarPassword">
+<summary>
+Control txtConfirmarPassword.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._lnkRecuperar">
+<summary>
+Control lnkRecuperar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._lnkIniciarSesion">
+<summary>
+Control lnkIniciarSesion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Fase_4_Apoyo_Didactico.Registrar._btnRegistrar">
+<summary>
+Control btnRegistrar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Fase_4_Apoyo_Didactico.AwsAmazonApoyo._form1">
 <summary>
 Control form1.
@@ -406,9 +586,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Fase_4_Apoyo_Didactico.Inicio._btnIniciarSesion">
+<member name="F:Fase_4_Apoyo_Didactico.Inicio._btnCerrarSesion">
 <summary>
-Control btnIniciarSesion.
+Control btnCerrarSesion.
 </summary>
 <remarks>
 Campo generado automáticamente.

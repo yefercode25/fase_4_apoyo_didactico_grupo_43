@@ -14,13 +14,13 @@ Option Explicit On
 Partial Public Class Inicio
 
     '''<summary>
-    '''Control btnIniciarSesion.
+    '''Control btnCerrarSesion.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents btnIniciarSesion As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents btnCerrarSesion As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
     '''Control btnMetadatos.

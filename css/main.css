@@ -52,7 +52,7 @@ img {
 
 .hero .navbar input  {
   display: inline-block;
-  background: #f7b733;
+  background: #dc143c;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -65,7 +65,7 @@ img {
 }
 
 .hero .navbar input:hover {
-  background: #e2a62f;
+  background: #b31031;
 }
 
 .hero .content {
